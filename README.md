@@ -1,5 +1,5 @@
-# Linear Optimal Transport (LOT)
-This repo gives a simple tutorial of the Linear Optimal Transport (LOT) framework presented in the following papers: 
+# Linear Wasserstein Embedding 
+This repo gives a simple tutorial of the Linear-Wasserstein-Embedding or Linear-Optimal-Transport (LOT) framework presented in the following papers: 
 
 * [Wang, Wei, et al. "A linear optimal transportation framework for quantifying and visualizing variations in sets of images." *International journal of computer vision* 101.2 (2013): 254-269.](https://link.springer.com/article/10.1007/s11263-012-0566-z)
 * [Kolouri, Soheil, et al. "A continuous linear optimal transport approach for pattern analysis in image datasets." *Pattern recognition* 51 (2016): 453-462.](https://www.sciencedirect.com/science/article/abs/pii/S0031320315003507)
